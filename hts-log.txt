@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jan 2025 21:17:44 at https://i9digitalmarketing.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://i9digitalmarketing.com/ -O1 "C:\website development 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:18:02	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/e,baseURI (from https://i9digitalmarketing.com/)
+21:18:02	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/GET (from https://i9digitalmarketing.com/)
+21:18:02	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/Edge/ (from https://i9digitalmarketing.com/)
+21:18:02	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://i9digitalmarketing.com/)
+21:18:20	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/Whyus (from https://i9digitalmarketing.com/)
+21:18:20	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/POST (from https://i9digitalmarketing.com/)
+21:18:20	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/terms-conditions/e,baseURI (from https://i9digitalmarketing.com/terms-conditions/)
+21:18:20	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/terms-conditions/GET (from https://i9digitalmarketing.com/terms-conditions/)
+21:18:20	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/terms-conditions/Edge/ (from https://i9digitalmarketing.com/terms-conditions/)
+21:18:20	Warning: 	Moved Permanently for https://i9digitalmarketing.com/?p=1614
+21:18:20	Warning: 	File has moved from https://i9digitalmarketing.com/?p=1614 to https://i9digitalmarketing.com/terms-conditions/
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/terms-conditions/POST (from https://i9digitalmarketing.com/terms-conditions/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/agency/e,baseURI (from https://i9digitalmarketing.com/agency/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/agency/GET (from https://i9digitalmarketing.com/agency/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/agency/Edge/ (from https://i9digitalmarketing.com/agency/)
+21:18:21	Warning: 	Moved Permanently for https://i9digitalmarketing.com/?p=14
+21:18:21	Warning: 	File has moved from https://i9digitalmarketing.com/?p=14 to https://i9digitalmarketing.com/agency/
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/agency/POST (from https://i9digitalmarketing.com/agency/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/work/e,baseURI (from https://i9digitalmarketing.com/work/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/work/GET (from https://i9digitalmarketing.com/work/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/work/Edge/ (from https://i9digitalmarketing.com/work/)
+21:18:21	Warning: 	Moved Permanently for https://i9digitalmarketing.com/?p=15
+21:18:21	Warning: 	File has moved from https://i9digitalmarketing.com/?p=15 to https://i9digitalmarketing.com/work/
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/work/POST (from https://i9digitalmarketing.com/work/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/testimonials/e,baseURI (from https://i9digitalmarketing.com/testimonials/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/testimonials/GET (from https://i9digitalmarketing.com/testimonials/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/testimonials/Edge/ (from https://i9digitalmarketing.com/testimonials/)
+21:18:21	Warning: 	Moved Permanently for https://i9digitalmarketing.com/?p=16
+21:18:21	Warning: 	File has moved from https://i9digitalmarketing.com/?p=16 to https://i9digitalmarketing.com/testimonials/
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/testimonials/POST (from https://i9digitalmarketing.com/testimonials/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/contact/e,baseURI (from https://i9digitalmarketing.com/contact/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/contact/GET (from https://i9digitalmarketing.com/contact/)
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/contact/Edge/ (from https://i9digitalmarketing.com/contact/)
+21:18:21	Warning: 	Moved Permanently for https://i9digitalmarketing.com/?p=17
+21:18:21	Warning: 	File has moved from https://i9digitalmarketing.com/?p=17 to https://i9digitalmarketing.com/contact/
+21:18:21	Error: 	"Not Found" (404) at link https://i9digitalmarketing.com/contact/POST (from https://i9digitalmarketing.com/contact/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 82 links scanned, 50 files written (5906451 bytes overall) [1519653 bytes received at 41071 bytes/sec], 6739593 bytes transferred using HTTP compression in 72 files, ratio 19%, 11.0 requests per connection
+(26 errors, 10 warnings, 0 messages)
